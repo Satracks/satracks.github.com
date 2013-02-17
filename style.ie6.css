@@ -1,0 +1,22 @@
+#satracks-bar {
+  border-bottom-style: none;
+  margin-bottom: -90px;
+}
+.satracks-bar-1, .satracks-bar-2, .satracks-bar-3, .satracks-bar-4, .satracks-bar-5 {
+  border-bottom: 1px solid #222222;
+}
+#timer-line2 {
+  top: -190px;
+}
+#timer-line3 {
+  top: -140px;
+}
+#progress-bar {
+  top: -115px;  
+}
+#title {
+  top: -100px;  
+}
+#progress-bar .progress {
+  margin-bottom: -10px;
+}
